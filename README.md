@@ -9,3 +9,4 @@
 ## [파이썬 설치파일](https://drive.google.com/file/d/1PABXsZEF385c1DAmCMXBJlmFd6QeDOkm/view?usp=sharing) <br>
 ## [파이참 설치파일](https://drive.google.com/file/d/12A2nKEi1Jfg9LYO9LiA__CCD6cG1JPKk/view?usp=sharing) <br>
 
+## [파이썬1](https://www.youtube.com/watch?v=xgMY2RriGLM) <br>
