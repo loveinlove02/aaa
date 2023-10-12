@@ -10,3 +10,7 @@
 ## [파이참 설치파일](https://drive.google.com/file/d/12A2nKEi1Jfg9LYO9LiA__CCD6cG1JPKk/view?usp=sharing) <br>
 
 ## [파이썬1](https://www.youtube.com/watch?v=xgMY2RriGLM) <br>
+## [파이썬2](https://youtu.be/i4RNBbPOwqc?si=DeBGCGMSX2Ed8z1j)<br>
+## [파이썬3](https://youtu.be/2nkk-Bnj13A?si=kdMlTpisI2o5C2U4)<br>
+## [파이썬4](https://youtu.be/e9g9DNjd3Yk?si=1vf-NAzM4jPRoLU-)<br>
+## [파이썬5](https://youtu.be/Tpm23Nd0DSU?si=UWTOvLP9W5P45t8u)<br>
