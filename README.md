@@ -20,3 +20,6 @@
 
 # 파이참 깃허브 입니다 <br>
 ## [파이참 깃허브](https://youtu.be/dJvarTuASM0?si=7S08ELHgoA8e96Nm) <br>
+
+# 앱인벤터 앱 설치 <br>
+## [앱](https://youtu.be/GJiiP4s8gVs?si=xXl3jNHzsCk7m0aW) <br>
