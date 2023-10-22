@@ -14,3 +14,9 @@
 ## [파이썬3](https://youtu.be/2nkk-Bnj13A?si=kdMlTpisI2o5C2U4)<br>
 ## [파이썬4](https://youtu.be/e9g9DNjd3Yk?si=1vf-NAzM4jPRoLU-)<br>
 ## [파이썬5](https://youtu.be/Tpm23Nd0DSU?si=UWTOvLP9W5P45t8u)<br>
+
+# 파이참 yolo 입니다 <br>
+## [파이참](https://youtu.be/JwjSRphEt-g?si=NGeRXhuu1dxxm5Ta) <br>
+
+# 파이참 깃허브 입니다 <br>
+## [파이참 깃허브](https://youtu.be/dJvarTuASM0?si=7S08ELHgoA8e96Nm) <br>
